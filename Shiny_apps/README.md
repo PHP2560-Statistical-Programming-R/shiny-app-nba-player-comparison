@@ -14,7 +14,7 @@ Users should choose a season from the drop down menu. This will narrow down the 
 
 ## See Also
 
-:bulb: **Curry's 3PT Shots**: Shiny App that I created to better explain the outcomes of my group's final project in *GISP 0004: Sports Analytics*. Please check the app for the complete paper.
+:bulb: **Curry's 3PT Shots**: Shiny App that I created to better explain the outcomes of my group's final project in *GISP 0004: Sports Analytics*. Please check the app for the complete paper.  
 :bulb: **p-value calculator**
 
 ## References
